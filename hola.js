@@ -24,3 +24,9 @@ const ANIO_FUNDACION = 1985;
 let suma = 1;
 suma = +10;
 console.log("suma");
+
+//ejercicios 2
+
+//ej1 
+let NATURALES = [];
+let nuevoNATURALES = promt("ingresar 18 valores");
