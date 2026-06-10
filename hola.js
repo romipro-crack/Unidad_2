@@ -21,3 +21,6 @@ cantidadEntrada = 1;
 //ej9
 const ANIO_FUNDACION = 1985;
 //ej10
+let suma = 1;
+suma = +10;
+console.log("suma");
