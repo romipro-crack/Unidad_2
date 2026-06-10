@@ -28,5 +28,11 @@ console.log("suma");
 //ejercicios 2
 
 //ej1 
-let NATURALES = [];
-let nuevoNATURALES = promt("ingresar 18 valores");
+
+let NATURALES = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
+
+let nuevoNATURALES = promt("ingresar 18 valores impares");
+for (let i =1; i <= NATURALES.push; i ++);
+NATURALES.push(nuevoNATURALES);
+console.log(nuevoNATURALES);
+
